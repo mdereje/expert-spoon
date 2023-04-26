@@ -3,3 +3,4 @@ Repo with flutter/dart with a login page, home page, drawer, firebase and themin
 
 - init created project done
 - testing commit with work/vs/personal git
+- should be work again after changing git config only 
